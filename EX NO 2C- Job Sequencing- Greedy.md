@@ -28,8 +28,8 @@ Each job takes 1 unit of time and only one job can be done at a time. The goal i
 ## Program:
 ```
 /*
-Developed by: Abinaya A
-Register Number: 212223040003
+Developed by: HARISH B
+Register Number: 212223040061
 */
 import java.util.*;
 
